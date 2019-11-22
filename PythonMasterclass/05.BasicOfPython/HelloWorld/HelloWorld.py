@@ -1,20 +1,20 @@
-print('Hello World')
+# greeting = "Hello"
+# name = input("Please enter your name: ")
+# print(greeting + ' ' + name)
 
-print(1 + 2)
-print(7 * 6)
+# splitString = "This string has been \nsplit over\nseveral\nlines"
+# print(splitString)
 
-print()
+# tabbedString = "1\t2\t3\t4\t5\t"
+# print(tabbedString)
 
-print('The End')
+# print('The pet show owner said "No, no, \'e\'s uh, ... he\s resting"')
+# print("The pet show owner said \"No, no, 'e's uh, ... he's resting\"")
 
-print("Python's strings are easy to use")
-print('We can even include "quotes" in strings')
+# anotherSplitString = """This string has been
+# split over
+# several lines"""
+# print(anotherSplitString)
 
-print("Hello " + "World")
-
-greeting = "Hello"
-name = "Gekif"
-print(greeting + name)
-
-# If we want a space, we can add that too
-print(greeting + ' ' + name)
+print('''The pet show owner said "No, no, 'e's' uh,.... he's resting"''')
+print("""The pet show owner said "No, no, 'e's' uh,.... he's resting" """)
